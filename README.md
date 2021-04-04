@@ -16,7 +16,7 @@ This webpage allows the user to interact with a variety of sounds and audio usin
 
 ## Final Product
 
-![video sample of project]()
+![video sample of project](./sounds/attachments/Sound-Board-and-10-more-pages-Wo.gif)
 
 ## Technologies
 
